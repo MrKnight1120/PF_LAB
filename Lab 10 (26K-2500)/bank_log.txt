@@ -1,0 +1,4 @@
+Customer Name: Lodhi
+Account Number: -170856427
+Withdrawal Amount: 50000.00
+-------------------------
